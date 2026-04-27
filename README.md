@@ -111,6 +111,8 @@ app/src/main/java/com/example/parallel_connect/
    cd Parallel-Connect
    ```
 
+
+
 2. **Open in Android Studio**
    - Open Android Studio
    - Select "Open an existing project"
@@ -118,6 +120,11 @@ app/src/main/java/com/example/parallel_connect/
 
 3. **Build and Run**
    Run the app directly from Android Studio using the green play button.
+
+   Or
+
+   Run the apk
+
 
 ## 🎮 Usage Guide
 
